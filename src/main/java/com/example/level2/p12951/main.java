@@ -3,7 +3,6 @@ package com.example.level2.p12951;
 public class main {
 }
 
-
 class Solution {
     public String solution(String s) {
 
