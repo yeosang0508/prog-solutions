@@ -1,4 +1,4 @@
-package com.example.Hash.p42578;
+package com.example.hash.p42578;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

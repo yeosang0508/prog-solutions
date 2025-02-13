@@ -1,4 +1,4 @@
-package com.example.Hash.p42576;
+package com.example.hash.p42576;
 
 import java.util.HashMap;
 

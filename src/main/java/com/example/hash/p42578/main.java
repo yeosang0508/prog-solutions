@@ -1,6 +1,4 @@
-package com.example.Hash.p42578;
-
-import com.sun.source.tree.UsesTree;
+package com.example.hash.p42578;
 
 import java.util.HashMap;
 import java.util.Map;
